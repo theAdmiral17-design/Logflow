@@ -1,2 +1,2 @@
 # Logflow
-progetto di log-in flow G Bruno
+progetto di log-in flow con G Bruno
