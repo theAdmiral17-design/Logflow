@@ -1,2 +1,2 @@
 # Logflow
-progetto di log-in flow con G Bruno
+progetto di sito stile star trek ad interfaccia LCARS
